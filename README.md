@@ -1,4 +1,4 @@
-# ValoriApiTests
+# Valori Api Tests
 
 This project consists of several API tests as layed out in the assessment document.
 
